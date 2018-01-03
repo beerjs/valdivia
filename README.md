@@ -5,12 +5,12 @@ Bienvenido a BeerJS Valdivia, un encuentro para desarrolladores que quieran comp
 
 ## Compartir
 
-La idea principal es pasar un momento relajado donde podamos reunirnos, pasar el rato y ~emborracharnos~ hablar de Javascript, aunque el tema y alcance es bastante abierto.
+La idea principal es relajarnos, pasar un buen rato y ~emborracharnos~ hablar de Javascript (aunque el tema puede ser abierto).
 
 ## Charlas
 
-Cualquier asistente puede exponer y presentar de forma muy informal en un tiempo corto sobre un tema definido en cada encuentro.
-Si estas trabajando en un proyecto interesante, quieres contar tu experiencia con una nueva herramienta, libreria, framework o nueva tecnología que estes aplicando en tu empresa o lugar de trabajo estas invitado a presentar. Luego de cada presentación se abre el debate para ampliar, comentar y salir de dudas sobre el tema.
+Cualquier asistente puede presentar en un tiempo corto sobre un tema definido en cada encuentro. Si estas trabajando en un proyecto interesante, quieres contar tu experiencia con una nueva herramienta, libreria, framework o nueva tecnología que estes aplicando en tu empresa o lugar de trabajo estas invitado. 
+Luego de cada presentación se abre el debate para ampliar, comentar y salir de dudas sobre el tema.
 
 ## ¿Quieres traer cerveza?
 
