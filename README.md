@@ -9,7 +9,7 @@ La idea principal es relajarnos, pasar un buen rato y ~emborracharnos~ hablar de
 
 ## Charlas
 
-Cualquier asistente puede presentar en un tiempo corto sobre un tema definido en cada encuentro. Si estas trabajando en un proyecto interesante, quieres contar tu experiencia con una nueva herramienta, libreria, framework o nueva tecnología que estes aplicando en tu empresa o lugar de trabajo estas invitado. 
+Cualquier asistente puede presentar en un tiempo corto un tema definido en cada encuentro. Si estas trabajando en un proyecto interesante, quieres contar tu experiencia con una nueva herramienta, libreria, framework o nueva tecnología que estes aplicando en tu empresa o lugar de trabajo estas invitado. 
 Luego de cada presentación se abre el debate para ampliar, comentar y salir de dudas sobre el tema.
 
 ## ¿Quieres traer cerveza?
