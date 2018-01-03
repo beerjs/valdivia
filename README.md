@@ -20,9 +20,9 @@ Obvio que sí. Entre los asistentes probaremos distintas cervezas traidas por ca
 
 ¡Ya tenemos fecha para nuestro primer encuentro!
 
-* Fecha: 18 de Enero 2018, 18:18
-* Lugar: Nube Cowork Serrano 958, Valdivia.
-* Tema: Libre, presenta tu proyecto donde estes trabajando, tecnología o experiencia con algún desarrollo.
+* Fecha 🗓: 18 de Enero 2018, 18:18
+* Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
+* Tema 🙊: Libre, presenta tu proyecto donde estes trabajando, tecnología o experiencia con algún desarrollo.
 
 
 ## Organiza
