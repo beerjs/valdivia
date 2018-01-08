@@ -24,6 +24,8 @@ Entre los asistentes disfrutaremos distintas cervezas traidas por cada uno, aunq
 * Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
 * Tema 🙊: Libre, presenta tu proyecto donde estes trabajando, tecnología o experiencia con algún desarrollo.
 
+👍 Confirma tu asistencia en el siguiente enlace https://www.meetup.com/es-ES/valdivia-nube/
+
 
 ## Organiza
 
