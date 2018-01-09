@@ -1,5 +1,6 @@
 ![beerjs/valdivia](https://user-images.githubusercontent.com/362186/34363360-25e75678-ea5a-11e7-9a0c-c33b687c434f.jpg)                                                                                                
 # BeerJS Valdivia, Chile
+https://www.meetup.com/es-ES/valdivia-nube/
 
 Bienvenido a BeerJS Valdivia, un encuentro para desarrolladores que quieran compartir una buena cerveza y hablar de código.
 
