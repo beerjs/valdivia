@@ -19,11 +19,9 @@ Entre los asistentes disfrutaremos distintas cervezas traidas por cada uno, aunq
 
 ## Próximo encuentro
 
-¡Ya tenemos fecha para nuestro primer encuentro!
-
-* Fecha 🗓: 18 de Enero 2018, 18:18
+* Fecha 🗓: Marzo 2018 (día por confirmar)
 * Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
-* Tema 🙊: Libre, presenta tu proyecto donde estes trabajando, tecnología o experiencia con algún desarrollo.
+* Tema 🙊: Por confirmar
 
 👍 Confirma tu asistencia en el siguiente enlace https://www.meetup.com/es-ES/valdivia-nube
 
