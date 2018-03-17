@@ -19,9 +19,9 @@ Entre los asistentes disfrutaremos distintas cervezas traídas por cada uno, aun
 
 ## Próximo encuentro
 
-* Fecha 🗓: Marzo 2018 (día por confirmar)
+* Fecha 🗓: Jueves 22 Marzo 2018
 * Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
-* Tema 🙊: Por confirmar
+* Tema 🙊: ReactJS y proyectos
 
 👍 Confirma tu asistencia en el siguiente enlace https://www.meetup.com/es-ES/valdivia-nube
 
