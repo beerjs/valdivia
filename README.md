@@ -22,7 +22,7 @@ Entre los asistentes disfrutaremos distintas cervezas traídas por cada uno, aun
 
 * Fecha 🗓: Jueves 19 Abril 2018
 * Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
-* Tema 🙊: Por definir
+* Tema 🙊: JS, experiencias y buenas prácticas en el desarrollo.
 
 👍 Confirma tu asistencia en https://www.beerjs.cl/valdivia
 
