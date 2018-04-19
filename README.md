@@ -1,6 +1,7 @@
 ![beerjs/valdivia](https://user-images.githubusercontent.com/362186/34363360-25e75678-ea5a-11e7-9a0c-c33b687c434f.jpg)                                                                                                
 # BeerJS Valdivia, Chile
-https://www.meetup.com/es-ES/valdivia-nube
+
+https://www.beerjs.cl/valdivia
 
 Bienvenido a BeerJS Valdivia, un encuentro para desarrolladores que quieran compartir una buena cerveza y hablar de código.
 
@@ -23,7 +24,7 @@ Entre los asistentes disfrutaremos distintas cervezas traídas por cada uno, aun
 * Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
 * Tema 🙊: Por definir
 
-👍 Confirma tu asistencia en el siguiente enlace https://www.meetup.com/es-ES/valdivia-nube
+👍 Confirma tu asistencia en https://www.beerjs.cl/valdivia
 
 
 ## Organiza
