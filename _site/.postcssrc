@@ -1,0 +1,19 @@
+{
+  "plugins": {
+    "postcss-import": {},
+    "postcss-cssnext": {
+      "features": {
+        "customProperties": {
+          "variables": {
+            "color-black": "#30322f",
+            "color-white": "#ffffff",
+            "color-blue": "#67bcf2",
+            "color-yellow": "#eaa74c",
+            "font-family-primary": "'Amatic SC', Helvetica, Arial, sans-serif",
+            "font-family-normal": "Helvetica, Arial, sans-serif",
+          }
+        }
+      }
+    },
+  }
+}
