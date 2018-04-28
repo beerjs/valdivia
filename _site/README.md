@@ -1,3 +1,0 @@
-# BeerJS Site
-
-WIP
