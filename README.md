@@ -7,7 +7,7 @@ Bienvenido a BeerJS Valdivia, un encuentro para desarrolladores que quieran comp
 ## Próximo encuentro
 * Fecha 🗓: jueves 17 mayo 2018
 * Lugar 🏠: Nube Cowork Serrano 958, Valdivia.
-* Tema 🙊: _Por definir_
+* Tema 🙊: JavaScript + CSS (Arquitectura, metodologias, postcss, cssgrid, etc)
 
 👍 Confirma tu asistencia en [beerjs.cl/valdivia](https://www.beerjs.cl/valdivia)
 
